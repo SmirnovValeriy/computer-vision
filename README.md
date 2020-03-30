@@ -23,4 +23,4 @@ A whole list of tasks is as following:
 10. Birds segmenatation 
 11. Tracking
 
-In the repository you can see solutions to the problems. Read a description for each task.
+In the repository you can see solutions to the problems. All of them are written on Python 3.6. Read a description for each task.
