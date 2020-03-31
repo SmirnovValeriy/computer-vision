@@ -4,11 +4,11 @@
 
 A computer vision course on Computional Mathematics and Cybernetics Faculty of Moscow State University is held for the 3rd grade students of
 the Intellegent Information Techologies department. 
-The course is consists of lectures and workshops. 
+The course consists of lectures and workshops. 
 
 ### Tasks
 
-On the workshops students are offered to solve different tasks concerning computer vision. A major part of tasks are dedicated to neuaral networks.
+On the workshops students are offered to solve different tasks concerning computer vision. A major part of tasks are dedicated to neural networks.
 Students are given from 1 day to 2 weeks to present a solution for each task.
 A whole list of tasks is as following:
 1. Bayer
@@ -23,4 +23,4 @@ A whole list of tasks is as following:
 10. Birds segmenatation 
 11. Tracking
 
-In the repository you can see solutions to the problems. All of them are written on Python 3.6. Read a description for each task.
+In the repository you can see solutions to the tasks. All of them are written on Python 3. Read a description for each task.
