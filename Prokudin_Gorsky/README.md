@@ -14,7 +14,7 @@ To reduce the execution time, we suggest using the pyramid of images:
 2. then starting from the smallest image find the optimal shift;
 3. return to the bigger image and correct the shift and so on.
 
-Solution for the task is presented in jupyter-notebook **prokudinGorsky.ipynb**.
+Solution for the task is presented in jupyter-notebook **prokudinGorsky.ipynb**. Python code for the solution you can find in **align.py**.
 
 You can test the functions using **run.py** and **public_tests** located in the same folder: \
 **`$ ./run.py public_tests`** \
