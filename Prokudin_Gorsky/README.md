@@ -1,6 +1,7 @@
 # Prokudin-Gorskiy
 
 Prokudin-Gorskiy is the pioneer of Russian color photography. Each his photo represents combination of three images corresponding to three channels: red, green and blue. 
+
 ![](https://cdn1.savepice.ru/uploads/2020/3/31/7ca9774aba931d18b3353ffcd20bc0a6-full.png "ThreeChannelsImgExample.png")
 
 In the task you need to write functions combining these images into a colored photo.
