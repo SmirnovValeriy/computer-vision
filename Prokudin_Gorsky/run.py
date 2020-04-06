@@ -1,4 +1,4 @@
-#!/home/valeriy/anaconda3/bin/python3
+#!/usr/bin/python3
 
 from json import dumps, load
 from os import environ
