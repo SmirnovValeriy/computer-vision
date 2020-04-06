@@ -14,11 +14,11 @@ To reduce the execution time, we suggest using the pyramid of images:
 2. then starting from the smallest image find the optimal shift;
 3. return to the bigger image and correct the shift and so on.
 
-Solution for the task is presented in jupyter-notebook **prokudinGorsky.ipynb**. Python code for the solution you can find in **align.py**.
+Solution for the task is presented in jupyter-notebook **[prokudinGorsky.ipynb](prokudinGorsky.ipynb)**. Python code for the solution you can find in **[align.py](align.py)**.
 
-You can test the functions using **run.py** and **public_tests** located in the same folder: \
+You can test the functions using **[run.py](run.py)** and **[public_tests](public_tests)** located in the same folder: \
 **`$ ./run.py public_tests`** \
 ***NB:*** you might have to change python3 interpretator in **run.py** (for example I have changed it to **/home/valeriy/anaconda3/bin/python3**).
 
-A whole task description is available only in Russian. You can find it in **WholeTaskDescription.pdf**
+A whole task description is available only in Russian. You can find it in **[WholeTaskDescription.pdf](WholeTaskDescription.pdf)**
 
