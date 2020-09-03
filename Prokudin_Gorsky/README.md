@@ -2,11 +2,7 @@
 
 Prokudin-Gorsky is the pioneer of Russian color photography. Each his photo represents combination of three images corresponding to three channels: red, green and blue. 
 
-![](https://cdn1.savepice.ru/uploads/2020/3/31/7ca9774aba931d18b3353ffcd20bc0a6-full.png "ThreeChannelsImgExample.png")
-
 In the task you need to write functions combining these images into a colored photo.
-
-![](https://cdn1.savepice.ru/uploads/2020/3/31/82a6f955eab6e3ec1f02bc0988afca6f-full.png  "ColoredExampleImg.png")
 
 At the entrance you have a picture with three channels. It is necessary to сut edges and then cobmine three channels in such a way that MSE-metrics is maximum.
 To reduce the execution time, we suggest using the pyramid of images:
