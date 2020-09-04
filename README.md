@@ -24,3 +24,5 @@ A whole list of tasks is as following:
 11. Tracking
 
 In the repository you can see solutions to the tasks. All of them are written on Python 3. Read a description for each task.
+
+All tasks description and tests are prepared by [Computer Graphics & Multimedia Laboratory of MSU](graphics.cs.msu.ru).
