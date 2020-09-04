@@ -1,8 +1,12 @@
 # Prokudin-Gorsky
 
-Prokudin-Gorsky is the pioneer of Russian color photography. Each his photo represents combination of three images corresponding to three channels: red, green and blue (watch **[ThreeChannelsImgExample.png](ThreeChannelsImgExample.png)**). 
+Prokudin-Gorsky is the pioneer of Russian color photography. Each his photo represents combination of three images corresponding to three channels: red, green and blue. 
 
-In the task you need to write functions combining these images into a colored photo (watch **[ColoredImgExample.png](ColoredImgExample.png)**). 
+![ThreeChannelsImgExample.png](ThreeChannelsImgExample.png).
+
+In the task you need to write functions combining these images into a colored photo. 
+
+![ColoredImgExample.png](ColoredImgExample.png).
 
 At the entrance you have a picture with three channels. It is necessary to сut edges and then cobmine three channels in such a way that MSE-metrics is maximum.
 To reduce the execution time, we suggest using the pyramid of images:
@@ -17,4 +21,3 @@ You can test the functions using **[run.py](run.py)** and **[public_tests](publi
 ***NB:*** you might have to change python3 interpretator in **[run.py](run.py)** (for example I have changed it to **/home/valeriy/anaconda3/bin/python3**).
 
 A whole task description is available only in Russian. You can find it in **[WholeTaskDescription.pdf](WholeTaskDescription.pdf)**.
-
