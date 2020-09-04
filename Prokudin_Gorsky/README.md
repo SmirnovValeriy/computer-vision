@@ -14,7 +14,7 @@ Solution for the task is presented in jupyter-notebook **[prokudinGorsky.ipynb](
 
 You can test the functions using **[run.py](run.py)** and **[public_tests](public_tests)** located in the same folder: \
 **`$ ./run.py public_tests`** \
-***NB:*** you might have to change python3 interpretator in **run.py** (for example I have changed it to **/home/valeriy/anaconda3/bin/python3**).
+***NB:*** you might have to change python3 interpretator in **[run.py](run.py)** (for example I have changed it to **/home/valeriy/anaconda3/bin/python3**).
 
-A whole task description is available only in Russian. You can find it in **[WholeTaskDescription.pdf](WholeTaskDescription.pdf)**
+A whole task description is available only in Russian. You can find it in **[WholeTaskDescription.pdf](WholeTaskDescription.pdf)**.
 
