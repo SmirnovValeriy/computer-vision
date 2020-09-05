@@ -1,4 +1,4 @@
-# Signs Detectin
+# Signs Detection
 
 It is the first task on machine learning algorithms. In the task you are offered to implement an SVM-algorithm for signs detection using Histograms of Oriented Gradients as descriptors.
 
