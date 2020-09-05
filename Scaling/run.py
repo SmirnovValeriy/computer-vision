@@ -1,4 +1,4 @@
-#!/home/valerii/anaconda3/bin/python3
+#!/usr/bin/python3
 
 from math import floor
 from os import environ
