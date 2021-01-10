@@ -2,7 +2,7 @@
 
 ### Computer Vision course
 
-A computer vision course on Computional Mathematics and Cybernetics Faculty of Moscow State University is held for the 3rd grade students of
+A computer vision course on Computational Mathematics and Cybernetics Faculty of Moscow State University is held for the 3rd grade students of
 the Intellegent Information Techologies department. 
 The course consists of lectures and workshops. 
 
